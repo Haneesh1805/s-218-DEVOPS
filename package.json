@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/dakshanmahe/S222",
+  "homepage": "https://github.com/Haneesh1805/s-218-DEVOPS",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
